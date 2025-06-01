@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋🏼, I'm Abdalrhman
 
 <h1 align="center"> The tools I use 🛠️ </h1>
 <p align="center">
