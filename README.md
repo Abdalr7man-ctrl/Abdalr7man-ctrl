@@ -17,6 +17,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80"/>
   </a>
+  <a href="https://obsidian.md/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" alt="obsidian" width="80" height="80"/>
+  </a>
 </p>
 
 <div style="text-align:center;">
